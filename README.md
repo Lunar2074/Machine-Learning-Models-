@@ -54,6 +54,3 @@ This repository highlights the ability to implement algorithms from scratch usin
 *   **Scientific Computing:** NumPy, Pandas
 *   **Visualization:** Matplotlib
 *   **Utilities:** Scikit-Learn (for dataset loading and metrics)
-
-## Contact
-**Chad R.**
