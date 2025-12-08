@@ -1,6 +1,6 @@
 # Machine Learning Models Portfolio
 
-A collection of machine learning implementations created by Chad R. to demonstrate a deep understanding of core algorithms and modern deep learning frameworks. 
+A collection of machine learning implementations created by me to demonstrate a deep understanding of core algorithms and modern deep learning frameworks. 
 
 This repository highlights the ability to implement algorithms from scratch using NumPy to understand the underlying mathematics, as well as proficiency with production-level libraries like PyTorch and Scikit-Learn.
 
